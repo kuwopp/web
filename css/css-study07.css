@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family:'メイリオ', 'Meiryo', sans-serif;
+    text-align: center;
+    height: 100vh;
+    background-size: cover;
+}
+#content{
+    height: 100%;
+}
+#product-01{
+    color: white;
+    padding: 10px;
+    height: 100%;
+    background-image: url("../img/XtPhone.jpg");
+}
+#product-02{
+    color: black;
+    padding: 10px;
+    height: 100%;
+    background-image: url("../img/MgPhone.jpg");
+}
+.product-name{
+    font-size: 24px;
+}
+.catch-copy{
+    font-size: 30px;
+}
+.price{
+    font-size: 20px;
+}
+.buy-button{
+    color: white;
+    font-weight: bold;
+    width: 50px;
+    margin: auto;
+    padding: 6px 5px;
+    border-radius: 18px;
+    background-color: #0071e3;
+}
+.more-details{
+    color: #0066cc;
+}
+.more-details a:visited{
+    color: #0066cc;
+}
